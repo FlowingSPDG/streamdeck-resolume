@@ -16,7 +16,7 @@ func main() {
 		log.Fatalf("Failed to parse registration params: %v", err)
 	}
 
-	plugin := sdresolume.NewPlugin(streamdeck.NewClient(ctx, params), &sdresolume.Config{})
+	plugin := sdresolume.NewPlugin(streamdeck.NewClient(ctx, params))
 
 	if err := plugin.Run(ctx); err != nil {
 		log.Fatal(err)
