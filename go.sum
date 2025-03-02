@@ -2,6 +2,8 @@ github.com/FlowingSPDG/resolume-go v0.0.0-20250302074545-55b5571a359f h1:fuQXDPb
 github.com/FlowingSPDG/resolume-go v0.0.0-20250302074545-55b5571a359f/go.mod h1:Z5mqRsaG2ITBP2KFuiwuPF+oAzQW5jDxsERTEpSBTSI=
 github.com/FlowingSPDG/resolume-go v0.0.0-20250302112859-fb089b1f22d3 h1:qFRHXZ0hIGn9cOYhOEPRK56l5UtqbYa5IZg9sALCKGc=
 github.com/FlowingSPDG/resolume-go v0.0.0-20250302112859-fb089b1f22d3/go.mod h1:Z5mqRsaG2ITBP2KFuiwuPF+oAzQW5jDxsERTEpSBTSI=
+github.com/FlowingSPDG/resolume-go v0.0.0-20250302121839-e7532f24ff11 h1:lGjVaYiTTtv/X/QepNALmIGTycxV8I7s3EXRZM2NTuI=
+github.com/FlowingSPDG/resolume-go v0.0.0-20250302121839-e7532f24ff11/go.mod h1:EMI8KVfEbXz3mri/0fnXhJxjT3OjY9i0Sg9oNMsvMwU=
 github.com/FlowingSPDG/streamdeck v0.0.0-20230506011737-7eb85f091e90 h1:ucYzwnTnPyTg44tuHsFdXnIDX5OFqCQmSEsFh6sa5dE=
 github.com/FlowingSPDG/streamdeck v0.0.0-20230506011737-7eb85f091e90/go.mod h1:xf0gNFmw7s/7NNewwYWEOzxDITtm2etmbVlZcYEN/vk=
 golang.org/x/sync v0.11.0 h1:GGz8+XQP4FvTTrjZPzNKTMFtSXH80RAzG+5ghFPgK9w=

@@ -46,7 +46,7 @@ func (p *Plugin) SelectColumnKeyDown(ctx context.Context, client *streamdeck.Cli
 		return xerrors.Errorf("failed to convert column to int64: %w", err)
 	}
 
-	if err := rc.SelectColumn(column); err != nil {
+	if err := rc.SelectColumn(ctx, column); err != nil {
 		p.client.LogMessage(ctx, fmt.Sprintf("failed to select clip: %s", err))
 		return xerrors.Errorf("failed to select clip: %w", err)
 	}
@@ -83,7 +83,7 @@ func (p *Plugin) SelectClipKeyDown(ctx context.Context, client *streamdeck.Clien
 		return xerrors.Errorf("failed to convert column to int64: %w", err)
 	}
 
-	if err := rc.SelectLayerClip(int(layer), int(clip)); err != nil {
+	if err := rc.SelectLayerClip(ctx, int(layer), int(clip)); err != nil {
 		p.client.LogMessage(ctx, fmt.Sprintf("failed to select clip: %s", err))
 		return xerrors.Errorf("failed to select clip: %w", err)
 	}
