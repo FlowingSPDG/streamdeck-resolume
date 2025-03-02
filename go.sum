@@ -1,0 +1,10 @@
+github.com/FlowingSPDG/resolume-go v0.0.0-20250302074545-55b5571a359f h1:fuQXDPb7xRxdfnt59d5CMCMycFSrUyR6ElRi0Tqn3Cg=
+github.com/FlowingSPDG/resolume-go v0.0.0-20250302074545-55b5571a359f/go.mod h1:Z5mqRsaG2ITBP2KFuiwuPF+oAzQW5jDxsERTEpSBTSI=
+github.com/FlowingSPDG/streamdeck v0.0.0-20230506011737-7eb85f091e90 h1:ucYzwnTnPyTg44tuHsFdXnIDX5OFqCQmSEsFh6sa5dE=
+github.com/FlowingSPDG/streamdeck v0.0.0-20230506011737-7eb85f091e90/go.mod h1:xf0gNFmw7s/7NNewwYWEOzxDITtm2etmbVlZcYEN/vk=
+golang.org/x/sync v0.11.0 h1:GGz8+XQP4FvTTrjZPzNKTMFtSXH80RAzG+5ghFPgK9w=
+golang.org/x/sync v0.11.0/go.mod h1:Czt+wKu1gCyEFDUtn0jG5QVvpJ6rzVqr5aXyt9drQfk=
+golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da h1:noIWHXmPHxILtqtCOPIhSt0ABwskkZKjD3bXGnZGpNY=
+golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da/go.mod h1:NDW/Ps6MPRej6fsCIbMTohpP40sJ/P/vI1MoTEGwX90=
+nhooyr.io/websocket v1.8.17 h1:KEVeLJkUywCKVsnLIDlD/5gtayKp8VoCkksHCGGfT9Y=
+nhooyr.io/websocket v1.8.17/go.mod h1:rN9OFWIUwuxg4fR5tELlYC04bXYowCP9GX47ivo2l+c=

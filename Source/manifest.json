@@ -1,0 +1,43 @@
+{
+  "Actions": [
+    {
+      "Name": "Select Clip",
+      "States": [
+        {
+          "Image": "images/icon",
+          "TitleAlignment": "middle",
+          "FontSize": "24"
+        }
+      ],
+      "PropertyInspectorPath": "inspector/pi.html", 
+      "SupportedInMultiActions": true,
+      "Tooltip": "Tooltip",
+      "UUID": "dev.flowingspdg.resolume.selectclip",
+      "Icon": "images/icon" 
+    }
+  ],
+  "SDKVersion": 2,
+  "Author": "Shugo Kawamura", 
+  "CodePath": "resolume.exe", 
+  "CodePathMac" :"resolume", 
+  "Description": "Resolume Plugin", 
+  "Name": "Resolume [FlowingSPDG]", 
+  "Icon": "images/icon", 
+  "URL": "https://github.com/FlowingSPDG/streamdeck-resolume", 
+  "Version": "0.2.0",
+  "OS": [
+    {
+      "Platform": "mac", 
+      "MinimumVersion" : "10.11"
+    },
+    {
+        "Platform": "windows", 
+        "MinimumVersion" : "10"
+    }
+  ],
+  "Software": {
+    "MinimumVersion" : "6.4"
+  },
+  "Category": "Resolume [FlowingSPDG]",
+  "CategoryIcon": "images/icon"
+}
